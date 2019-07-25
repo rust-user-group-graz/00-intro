@@ -1,7 +1,7 @@
 ---
 author: Lukas Prokop
 title: Rust Graz – 00 Intro
-date: July 26, 2019
+date: July 25, 2019
 ---
 
 <img src="img/talk.png" alt="Data types and Trait std::iter::Iterator; 25th of July 2019 Rust Graz, lab10" />
